@@ -1,0 +1,15 @@
+INSERT INTO tb_client(id, name, email, phone) VALUES(1, 'Maria', 'maria@gmail.com', '(40) 59189-9055');
+INSERT INTO tb_client(id, name, email, phone) VALUES(2, 'João', 'joao@gmail.com', '(69) 54795-0087');
+INSERT INTO tb_client(id, name, email, phone) VALUES(3, 'Matheus', 'matheus@gmail.com', '(89) 57627-3054');
+INSERT INTO tb_client(id, name, email, phone) VALUES(4, 'Ana', 'ana@gmail.com', '57) 49743-5142');
+INSERT INTO tb_client(id, name, email, phone) VALUES(5, 'Ravel', 'ravel@gmail.com', '(65) 49605-2609');
+INSERT INTO tb_client(id, name, email, phone) VALUES(6, 'Raquel', 'raquel@gmail.com', '(13) 16232-9235');
+INSERT INTO tb_client(id, name, email, phone) VALUES(7, 'Kayke', 'kayke@gmail.com', '(47) 19600-9194');
+INSERT INTO tb_client(id, name, email, phone) VALUES(8, 'Alzira', 'alzira@gmail.com', '(32) 73124-1881');
+INSERT INTO tb_client(id, name, email, phone) VALUES(9, 'Zilda', 'zilda@gmail.com', '(51) 33393-2246');
+INSERT INTO tb_client(id, name, email, phone) VALUES(10, 'Avanilda', 'ava@gmail.com', '(54) 58302-1346');
+INSERT INTO tb_client(id, name, email, phone) VALUES(11, 'Renne', 'renne@gmail.com', '(20) 23727-5220');
+INSERT INTO tb_client(id, name, email, phone) VALUES(12, 'Laura', 'laura@gmail.com', '(83) 28648-3373');
+INSERT INTO tb_client(id, name, email, phone) VALUES(13, 'Davi', 'davi@gmail.com', '(68) 47122-8904');
+INSERT INTO tb_client(id, name, email, phone) VALUES(14, 'Victor', 'victor@gmail.com', '(84) 37986-9154');
+INSERT INTO tb_client(id, name, email, phone) VALUES(15, 'João Pedro', 'jp@gmail.com', '(16) 58959-4918');
